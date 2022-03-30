@@ -28,10 +28,7 @@ function PlanetsTable() {
         ({ name }) => name.toLowerCase().includes(filterByName.name),
       );
     }
-
-    // referencia de filtro: https://github.com/tryber/sd-014-a-project-starwars-planets-search/pull/98
-    // obrigada Brian pela ajuda <3
-
+    
     if (filterByNumericValues[0]) {
       return filterByNumericValues.reduce((accumulator, currentValue) => {
         const { comparison, column, value } = currentValue;
