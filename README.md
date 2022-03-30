@@ -53,3 +53,9 @@ Neste projeto eu precisei desenvolver uma lista com filtros de planetas, do univ
 - Não utilizar filtros repetidos
 
 - Apagar o filtro de valores numéricos e desfaça as filtragens dos dados da tabela ao clicar no ícone de `X` de um dos filtros
+
+<br>
+
+## Print da Aplicação com CSS
+
+![starwars-print](https://github.com/amzotelli/starwars-search-trybe/blob/main/print-swsp.png?raw=true)
